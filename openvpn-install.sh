@@ -85,7 +85,7 @@ if [[ -e /etc/openvpn/server.conf ]]; then
 	while :
 	do
 	clear
-		echo "OpenVPN-install (github.com/Angristan/OpenVPN-install)"
+		echo "OpenVPN-install (github.com/unlocalizedsee/OpenVPN-install)"
 		echo ""
 		echo "Looks like OpenVPN is already installed"
 		echo ""
